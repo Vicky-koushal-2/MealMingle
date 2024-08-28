@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969803822905",
+    "project_id": "mealmingle-4c218",
+    "storage_bucket": "mealmingle-4c218.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969803822905:android:40dd694ff051e35ad49ae8",
+        "android_client_info": {
+          "package_name": "com.example.mealmingle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn9-LCemmqKizpjhGhUKTZSTX44SGHPg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
